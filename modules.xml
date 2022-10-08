@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/Trader/.idea/Trader.iml" filepath="$USER_HOME$/DataspellProjects/Trader/.idea/Trader.iml" />
       <module fileurl="file://$USER_HOME$/OneDrive - University of Cambridge/Documents/GitHub/Trading-bot/.idea/Trading-bot.iml" filepath="$USER_HOME$/OneDrive - University of Cambridge/Documents/GitHub/Trading-bot/.idea/Trading-bot.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />

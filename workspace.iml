@@ -5,5 +5,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="dsProject" />
     <orderEntry type="module" module-name="Trading-bot" />
+    <orderEntry type="module" module-name="Trader" />
   </component>
 </module>
